@@ -36,7 +36,6 @@ enum {
 	
 	PRAYING = 0,
 	PRAYED
-	
 };
 
 const TASK_ID = 1586;
