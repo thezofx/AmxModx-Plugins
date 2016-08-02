@@ -44,7 +44,6 @@ public client_putinserver( index ) {
 
 public client_disconnect( index ) {
 	
-	
 	if( is_user_admin( index ) ) {
 		
 		new tPlayedTime = ( get_user_time( index, 1) / 60 );
