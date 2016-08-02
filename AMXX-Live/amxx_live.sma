@@ -7,7 +7,7 @@
 const MAX_RESTART = 2;
 
 new const PLUGIN[ ]		=	"Live Plugin";
-new const VERSION[ ]	=	"1.0";
+new const VERSION[ ]		=	"1.0";
 new const AUTHOR[ ]		=	"ZOF 'X";
 
 new iXYPos;
