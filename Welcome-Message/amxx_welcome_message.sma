@@ -4,8 +4,8 @@
 
 #pragma semicolon	1
 
-#define MAX_PLAYERS	32
-#define TASK_ID		9468523
+const MAX_PLAYERS = 32
+const TASK_ID = 9468523
 
 new const PLUGIN[ ]  =	"Welcome Message";
 new const VERSION[ ] =	"0.1";
