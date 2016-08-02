@@ -14,7 +14,6 @@ public plugin_init( ) {
 	
 	register_plugin( PLUGIN, VERSION, AUTHOR );
 	register_cvar( "zofx_", PLUGIN, FCVAR_SERVER );
-	
 }
 
 public client_putinserver( index ) {
