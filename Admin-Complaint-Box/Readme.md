@@ -5,4 +5,4 @@ Player can only complaint for 2 time in One Day.
 
 when complaint is filed. head-admin or owner can find the details of complaint in "amxmodx\data\admin_complain_box\DD-MM-YYYY.txt" file.
 
-#NOTE: This plugin is created and tested with AMX-1.8.3 dev-git5067.
+NOTE: This plugin is created and tested with AMX-1.8.3 dev-git5067.
